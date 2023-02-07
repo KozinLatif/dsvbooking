@@ -1,0 +1,46 @@
+@import "bootstrap.css";
+@import "grid.css";
+@import "layout.css";
+@import "properties.css";
+
+html {
+    font-family: 'Fira Sans', sans-serif;
+    overflow: scroll;
+    font-weight: normal;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+header {
+    background: #dcebfd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer {
+    background: #dcebfd;
+    color: #252525;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background: #fff;
+}
+
+nav {
+    border-left: 1px solid #c7c7c7;
+    border-right: 1px solid #c7c7c7;
+}
+
+aside {
+    border-right: 1px solid #c7c7c7;
+    border-left: 1px solid #c7c7c7;
+}
+
+/* mobile first */
