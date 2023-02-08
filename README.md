@@ -6,7 +6,3 @@ Gesällprovet är en uppgift för den egna kreativiteten och är ett fritt valt 
 ### Resultat och feedback
 
 "Genomgående ett mycket bra arbete med många bra lösningar och vacker kod samt ett fantastiskt bra och omfattande gesäll! Enormt bra! Allt! Ett av de bästa gesällen!"
-
-### Demo
-
-#### 👉 Se demo.pdf
